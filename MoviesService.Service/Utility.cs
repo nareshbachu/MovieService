@@ -15,24 +15,24 @@ namespace MoviesService.Service
         {
             return list != null && list.Count > 0;
         }
+
         /// <summary>
         /// Rounds ratings to the nearest .5 
         /// </summary>
-        /// <param name="d"></param>
+        /// <param name="averageRating"></param>
         /// <returns></returns>
-        public static double RoundToNearest(double d)
-        {
-            
-            var floor = Math.Floor(d);
-            var b = d - floor;
-            if (b <= 0.249)
-                d = floor;
-            else if (b >= 0.25 && b <= 0.749)
-                d = floor + 0.5;
+        public static double RoundToNearest(double averageRating)
+        {            
+            var floor = Math.Floor(averageRating);
+            var decimalValue = averageRating - floor;
+            if (decimalValue <= 0.249)
+                averageRating = floor;
+            else if (decimalValue >= 0.25 && decimalValue <= 0.749)
+                averageRating = floor + 0.5;
             else
-                d = floor + 1;
+                averageRating = floor + 1;
 
-            return d;
+            return averageRating;
 
         }
     }
