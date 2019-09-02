@@ -1,0 +1,17 @@
+D:\Movies\MoviesService.Service\MoviesService.Service\bin\Debug\netcoreapp2.1\MoviesService.Service.deps.json
+D:\Movies\MoviesService.Service\MoviesService.Service\bin\Debug\netcoreapp2.1\MoviesService.Service.runtimeconfig.json
+D:\Movies\MoviesService.Service\MoviesService.Service\bin\Debug\netcoreapp2.1\MoviesService.Service.runtimeconfig.dev.json
+D:\Movies\MoviesService.Service\MoviesService.Service\bin\Debug\netcoreapp2.1\MoviesService.Service.dll
+D:\Movies\MoviesService.Service\MoviesService.Service\bin\Debug\netcoreapp2.1\MoviesService.Service.pdb
+D:\Movies\MoviesService.Service\MoviesService.Service\bin\Debug\netcoreapp2.1\MoviesService.Contract.dll
+D:\Movies\MoviesService.Service\MoviesService.Service\bin\Debug\netcoreapp2.1\MoviesService.Contract.pdb
+D:\Movies\MoviesService.Service\MoviesService.Service\obj\Debug\netcoreapp2.1\MoviesService.Service.csprojAssemblyReference.cache
+D:\Movies\MoviesService.Service\MoviesService.Service\obj\Debug\netcoreapp2.1\MoviesService.Service.csproj.CoreCompileInputs.cache
+D:\Movies\MoviesService.Service\MoviesService.Service\obj\Debug\netcoreapp2.1\MoviesService.Service.RazorAssemblyInfo.cache
+D:\Movies\MoviesService.Service\MoviesService.Service\obj\Debug\netcoreapp2.1\MoviesService.Service.RazorAssemblyInfo.cs
+D:\Movies\MoviesService.Service\MoviesService.Service\obj\Debug\netcoreapp2.1\MoviesService.Service.AssemblyInfoInputs.cache
+D:\Movies\MoviesService.Service\MoviesService.Service\obj\Debug\netcoreapp2.1\MoviesService.Service.AssemblyInfo.cs
+D:\Movies\MoviesService.Service\MoviesService.Service\obj\Debug\netcoreapp2.1\MoviesService.Service.RazorTargetAssemblyInfo.cache
+D:\Movies\MoviesService.Service\MoviesService.Service\obj\Debug\netcoreapp2.1\MoviesService.Service.csproj.CopyComplete
+D:\Movies\MoviesService.Service\MoviesService.Service\obj\Debug\netcoreapp2.1\MoviesService.Service.dll
+D:\Movies\MoviesService.Service\MoviesService.Service\obj\Debug\netcoreapp2.1\MoviesService.Service.pdb

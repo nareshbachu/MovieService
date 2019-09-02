@@ -1,0 +1,8 @@
+D:\Movies\MoviesService.Service\MoviesService.Contract\bin\Debug\netcoreapp2.1\MoviesService.Contract.deps.json
+D:\Movies\MoviesService.Service\MoviesService.Contract\bin\Debug\netcoreapp2.1\MoviesService.Contract.dll
+D:\Movies\MoviesService.Service\MoviesService.Contract\bin\Debug\netcoreapp2.1\MoviesService.Contract.pdb
+D:\Movies\MoviesService.Service\MoviesService.Contract\obj\Debug\netcoreapp2.1\MoviesService.Contract.csproj.CoreCompileInputs.cache
+D:\Movies\MoviesService.Service\MoviesService.Contract\obj\Debug\netcoreapp2.1\MoviesService.Contract.AssemblyInfoInputs.cache
+D:\Movies\MoviesService.Service\MoviesService.Contract\obj\Debug\netcoreapp2.1\MoviesService.Contract.AssemblyInfo.cs
+D:\Movies\MoviesService.Service\MoviesService.Contract\obj\Debug\netcoreapp2.1\MoviesService.Contract.dll
+D:\Movies\MoviesService.Service\MoviesService.Contract\obj\Debug\netcoreapp2.1\MoviesService.Contract.pdb
